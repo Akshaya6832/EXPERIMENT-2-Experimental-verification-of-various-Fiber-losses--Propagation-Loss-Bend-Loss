@@ -32,19 +32,20 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 | Fiber Length     | Input Amplitude (V)        | Output Amplitude (V)     |
 |------------------|----------------------------|--------------------------|
-|    1             |       5                    |       10                 |
-|    0.5           |       5                    |       14                 |
+|    1             |       2                    |       6.3                |
+|    0.5           |       2                    |       9                  |
 
 ### Bending Loss
 
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|----------------------------|--------------------------|
-|    1     for 8cm |       5                    |       10.3               |
-|    0.5  for 6.4cm|       5                    |       9.76               |
+| Bend Diameter | Input (V) | Output (V) |
+| ------------- | --------- | ---------- |
+| 5 cm          | 2 V       | 7.8 V      |
+| 3 cm          | 2 V       | 7.0 V      |
 
 **Calculation**
 
-![WhatsApp Image 2025-11-12 at 09 00 05_ba1bfe02](https://github.com/user-attachments/assets/3279002c-e096-47d0-8c33-8ebe8a36988f)
+![WhatsApp Image 2025-11-17 at 01 57 33_7586b0e1](https://github.com/user-attachments/assets/aa79d4ae-4eb3-4f85-91e7-aa5e910bcbef)
+
 
 **Result:**  
 The experiment successfully verified the losses in a fiber-optic link:
