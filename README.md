@@ -2,12 +2,12 @@
 ## 🔍 EX.NO: 2 – Verification of Fiber Losses
 
 **Aim:**  
-To measure propagation and bending losses for two wavelengths in plastic fiber.
+To measure propagation loss & bending losses for two different wavelengths in plastic Fiber provided with the kit.
 
 **Equipments Required:**  
 - Link-B Kit  
 - Patch chords  
-- Oscilloscope  
+- Dual channel Oscilloscope  
 - Function Generator  
 - Fiber cables 
 
