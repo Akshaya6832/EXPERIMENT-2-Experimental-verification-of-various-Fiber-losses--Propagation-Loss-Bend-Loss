@@ -125,7 +125,6 @@ MEASUREMENT OF BENDING LOSSES:
 
 ![WhatsApp Image 2025-11-17 at 01 57 33_7586b0e1](https://github.com/user-attachments/assets/aa79d4ae-4eb3-4f85-91e7-aa5e910bcbef)
 
-
 **Result:**  
 The experiment successfully verified the losses in a fiber-optic link:
 
